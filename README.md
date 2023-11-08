@@ -27,7 +27,6 @@ Life Cycle of implementing machine learning application.
 * NumPy (Python Library for Numerical operations)
 * Matplotlib (Python Library for Data Visualization)
 * Seaborn (Python Library for Data Visualization)
-* imblearn (sampling Library)
 * VS code (IDE)
 <br><br>
 
